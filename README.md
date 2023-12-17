@@ -1,7 +1,9 @@
 
-![Screenshot 2023-12-17 235728](https://github.com/m2bhushan/TeslaClone/assets/67832647/86fe131a-c47f-4d29-986c-53e8165d6669)
-![Screenshot 2023-12-17 235655](https://github.com/m2bhushan/TeslaClone/![Screenshot 2023-12-17 235923](https://github.com/m2bhushan/TeslaClone/assets/67832647/486558ad-51bb-4c72-b5f2-90d267b31543)
-assets/67832647/36469bb5-8757-421a-b476-23edc969aa42)
+![Screenshot 2023-12-17 235728](https://github.com/m2bhushan/TeslaClone/assets/67832647/c101b62e-7483-437b-8315-e7bf04d7a556)
+![Screenshot 2023-12-17 235655](https://github.com/m2bhushan/TeslaClone/assets/67832647/6176d21d-2482-47c1-b870-c00d363f564e)
+![Screenshot 2023-12-17 235923](https://github.com/m2bhushan/TeslaClone/assets/67832647/f8fe152e-8aa1-465f-a6ee-2535c53e834b)
+
+
 
 # Getting Started with Create React App
 
